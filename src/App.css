@@ -3,6 +3,14 @@
 * {
   margin: 0;
   padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
 }
 
 body {
@@ -14,7 +22,6 @@ header {
   display: flex;
   justify-content: center;
   background: #4a90e2;
-  width: 1732px;
 }
 
 header nav {
