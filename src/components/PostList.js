@@ -13,7 +13,7 @@ class PostList extends Component {
           avatar: "https://i.pravatar.cc/500?img=18",
         },
         date: "07 Abr 2020",
-        content: "Sulista é tudo vi@do!",
+        content: "A Ganância enriquece o ser e empobrece a alma",
         comments: [
           {
             id: 1,
@@ -29,8 +29,7 @@ class PostList extends Component {
               name: "Gabriel Máximo",
               avatar: "https://i.pravatar.cc/500?img=12",
             },
-            content:
-              "spaodkapsokdpoaskdpoaskpdoaskpodkaspodkasopdkaspokdpasokdpoaskpdoaskpdokaspodkaspodkapsdkaspokdpasokdpaoskdpoaskdpoaskpdoaskdpoaskdpoaskpdoakspodakspdokaspodkaspodkaspokdsop",
+            content: "Boaa Gerson, profundo!",
           },
         ],
       },
